@@ -30,11 +30,6 @@
     "icon": "fa fa-icons"
   }
   {
-    "name": "封面",
-    "url": "https://cover.dongyou.me/",
-    "icon": "fa fa-cover"
-  }
-  {
     "name": "REC",
     "url": "https://rec.dongyou.me/",
     "icon": "fa fa-REC"
