@@ -29,4 +29,59 @@
     "url": "https://icon.ruom.top/",
     "icon": "fa fa-icons"
   }
+  {
+    "name": "封面",
+    "url": "https://cover.dongyou.me/",
+    "icon": "fa fa-icons"
+  }
+  {
+    "name": "REC",
+    "url": "https://rec.dongyou.me/",
+    "icon": "fa fa-icons"
+  }
+  {
+    "name": "Flux",
+    "url": "https://fluxapi.dongyou.me/generate-image",
+    "icon": "fa fa-icons"
+  }
+  {
+    "name": "新闻",
+    "url": "https://news.dongyou.me/",
+    "icon": "fa fa-icons"
+  }
+  {
+    "name": "邮箱",
+    "url": "https://yx.ooioo.me/",
+    "icon": "fa fa-icons"
+  }
+  {
+    "name": "github镜像",
+    "url": "https://github.dongyou.me/",
+    "icon": "fa fa-icons"
+  }
+  {
+    "name": "网盘",
+    "url": "https://pan.dongyou.me/",
+    "icon": "fa fa-icons"
+  }
+  {
+    "name": "AI报告",
+    "url": "https://ai.dongyou.me/",
+    "icon": "fa fa-icons"
+  }
+  {
+    "name": "影视站",
+    "url": "https://tv.dongyou.me/",
+    "icon": "fa fa-icons"
+  }
+  {
+    "name": "音乐",
+    "url": "https://music.dongyou.me/#/",
+    "icon": "fa fa-icons"
+  }
+  {
+    "name": "音乐",
+    "url": "https://music.dongyou.me/#/",
+    "icon": "fa fa-icons"
+  }
 ]
