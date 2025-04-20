@@ -1,7 +1,7 @@
 [
   {
     "name": "博客",
-    "url": "https://blog.bsgun.cn",
+    "url": "https://jiumu.xiaolin.nyc.mn/",
     "icon": "fa fa-blog"
   },
   {
@@ -11,17 +11,17 @@
   },
   {
     "name": "图床",
-    "url": "https://dev.ruom.top",
+    "url": "https://img.laolin.nyc.mn",
     "icon": "fa fa-image"
   },
   {
     "name": "封面",
-    "url": "https://cover.ruom.top",
+    "url": "https://cover.dongyou.me/",
     "icon": "fa fa-panorama"
   },
   {
     "name": "监测",
-    "url": "https://status.bsgun.cn",
+    "url": "https://status.dongyou.me/",
     "icon": "fa fa-chart-line"
   },
   {
